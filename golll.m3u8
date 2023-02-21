@@ -16,3 +16,5 @@ https://etslive-2-vidio-com.akamaized.net/exp=1677014581~acl=/hls-b/ingest_205_*
 https://etslive-2-vidio-com.akamaized.net/exp=1677014581~acl=/hls-b/ingest_205_*/*~hmac=22b1b30df6e23ea0bf0065115535ef5fd0496b5387f7cd513f16710920c7532b/hls-b/ingest_205_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
 https://etslive-2-vidio-com.akamaized.net/exp=1677014581~acl=/hls-b/ingest_205_*/*~hmac=22b1b30df6e23ea0bf0065115535ef5fd0496b5387f7cd513f16710920c7532b/hls-b/ingest_205_240p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://achi03.github.io/bocil/bocil_media.m3u8
